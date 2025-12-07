@@ -1,0 +1,10 @@
+{
+  "bookSelectors": {
+    "book1": "//a[@class='wjcEIp' and contains(text(),'Shakespeare Ki Lokpriya Kahaniyan')]",
+    "book2": "//a[contains(text(),'Web Automation Testing Using Playwright')]",
+    "fisrtBookAdded": "//a[contains(text(), 'Shakespeare Ki Lokpriya Kahaniyan')]",
+    "secondBookAdded": "//a[contains(text(), 'Web Automation Testing Using Playwright')]",
+    "FlipkartLogo": "//a[@class='YLCOuy']",
+    "FlipkartCart": "https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART"
+  }
+}
